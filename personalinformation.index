@@ -1,0 +1,56 @@
+
+
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+        <title>CV</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body>
+
+		<header id="header">
+			<div class="upper">
+				<a href="index.html" class="logo">Personal Info :</a>
+			</div>
+		</header>
+
+		<section id="banner">
+
+			<div class="upper">
+
+				<header>
+                    <h1>Name: Gazi Abdullah Al Noman</h1>
+                    <h3>ID: 011193025</h3>
+				</header>
+
+				<div class="middle">
+
+                    <h1>Academic info :</h1>
+					<div class="bot1">
+						<h3>School: Adamjee Cantonment Public School</h3>
+                        <a href="https://www.facebook.com/739998369367031/photos/1528687410793139/?av=100006445399037">School FB Page</a> 
+					</div>
+
+					<div class="bot">
+						<h3>College: Adamjee Cantonment College, Dhaka - 1206</h3>
+                        <a href="https://www.facebook.com/124817188098943/photos/124817891432206/">College FB Page</a> 
+					</div>
+
+				</div>
+    
+            </div>
+            
+        </section>
+
+        <section class="artx">
+            <div class="foot">
+                <h1>Why I choose United Inrenational University and C.S.e ?</h1>
+                <h2>UIU is now top rankked private university in Bangladesh also they provide weaver and good scholarship. the reason I took C.S.E. because my sister suggested me to do so. And according to our country C.S.E is leading subject. Also I was interested studying in this subject.  </h2>
+            </div>
+            <div class="btn">
+			
+            </div>
+        </section>
+    </body>
+</html>
